@@ -1,0 +1,11 @@
+.heading{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+.tableHeading{
+    font-weight: bold;
+}
+.content{
+    font-weight: lighter;
+}
